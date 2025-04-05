@@ -1,3 +1,1 @@
-Roll: 10
-Marks:85.5
-Name: A
+0
