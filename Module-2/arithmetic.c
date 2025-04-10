@@ -10,7 +10,7 @@ int main(){
     // printf("mul = %d\n",mul);
     float div = a / b;
     printf("div = %f\n",div);
-    // int mod = a % b;
-    // printf("mod = %d\n",mod);
+    int mod = a % b;
+    printf("mod = %d\n",mod);
     return 0;
 }
