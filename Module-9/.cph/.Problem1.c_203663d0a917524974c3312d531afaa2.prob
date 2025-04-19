@@ -1,0 +1,1 @@
+{"name":"Local: Problem1","url":"c:\\CodeInfinity-Dev\\Phitron\\Introduction to Programming\\Module-9\\Problem1.c","tests":[{"id":1745090875892,"input":"5\n1 2 3 6 4\n4 500","output":"1 2 3 6 500 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CodeInfinity-Dev\\Phitron\\Introduction to Programming\\Module-9\\Problem1.c","group":"local","local":true}
